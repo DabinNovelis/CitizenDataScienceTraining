@@ -1,5 +1,5 @@
 # :books: CitizenDataSienceTraining :books:
-Citizen Data Sience by Deloitte
+Citizen Data Sience Training by Deloitte
 
 ## Website & Digital tools being used: 
 - Data camp
